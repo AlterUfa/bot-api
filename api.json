@@ -1,1 +1,372 @@
-{"version":1,"servers":{"red":{"ip":"80.66.82.46:5125","bank_account":null},"green":{"ip":"80.66.82.47:5125","bank_account":null},"purple":{"ip":"80.66.82.211:5125","bank_account":null},"lime":{"ip":"80.66.82.208:5125","bank_account":null},"pink":{"ip":"80.66.82.209:5125","bank_account":null},"cherry":{"ip":"80.66.82.236:5125","bank_account":null},"black":{"ip":"80.66.82.237:5125","bank_account":null},"indigo":{"ip":"80.66.82.233:5125","bank_account":null},"white":{"ip":"80.66.82.234:5125","bank_account":null},"magenta":{"ip":"80.66.82.253:5125","bank_account":null},"crimson":{"ip":"80.66.82.254:5125","bank_account":"372882"},"gold":{"ip":"80.66.82.180:5125","bank_account":null},"azure":{"ip":"80.66.82.181:5125","bank_account":null},"platinum":{"ip":"80.66.82.175:5125","bank_account":null},"aqua":{"ip":"80.66.82.176:5125","bank_account":null},"gray":{"ip":"80.66.82.171:5125","bank_account":null},"ice":{"ip":"80.66.82.170:5125","bank_account":null},"chilli":{"ip":"80.66.82.166:5125","bank_account":null},"choco":{"ip":"80.66.82.167:5125","bank_account":null},"moscow":{"ip":"80.66.82.157:5125","bank_account":null},"spb":{"ip":"80.66.82.158:5125","bank_account":null},"ufa":{"ip":"80.66.82.151:5125","bank_account":null},"sochi":{"ip":"80.66.82.152:5125","bank_account":null},"kazan":{"ip":"80.66.82.145:5125","bank_account":null},"samara":{"ip":"80.66.82.146:5125","bank_account":"568441"},"rostov":{"ip":"80.66.82.140:5125","bank_account":"372882"},"anapa":{"ip":"80.66.82.141:5125","bank_account":null},"ekb":{"ip":"80.66.82.137:5125","bank_account":null},"krasnodar":{"ip":"80.66.82.138:5125","bank_account":null},"arzamas":{"ip":"80.66.82.134:5125","bank_account":"557699"},"novosib":{"ip":"80.66.82.135:5125","bank_account":null},"grozny":{"ip":"80.66.82.130:5125","bank_account":null},"saratov":{"ip":"80.66.82.131:5125","bank_account":null},"omsk":{"ip":"80.66.82.125:5125","bank_account":null},"irkutsk":{"ip":"80.66.82.126:5125","bank_account":null},"volgograd":{"ip":"80.66.82.120:5125","bank_account":null},"voronezh":{"ip":"80.66.82.121:5125","bank_account":null},"belgorod":{"ip":"80.66.82.114:5125","bank_account":null},"makhachkala":{"ip":"80.66.82.115:5125","bank_account":null},"vladikavkaz":{"ip":"80.66.82.111:5125","bank_account":null},"vladivostok":{"ip":"80.66.82.187:5125","bank_account":null},"kaliningrad":{"ip":"80.66.82.107:5125","bank_account":null},"chelyabinsk":{"ip":"80.66.82.108:5125","bank_account":null},"krasnoyarsk":{"ip":"80.66.82.100:5125","bank_account":null},"cheboksary":{"ip":"80.66.82.101:5125","bank_account":null},"khabarovsk":{"ip":"80.66.82.94:5125","bank_account":null},"perm":{"ip":"80.66.82.95:5125","bank_account":null},"tula":{"ip":"80.66.82.92:5125","bank_account":null},"ryazan":{"ip":"80.66.82.93:5125","bank_account":"18474"},"murmansk":{"ip":"80.66.82.85:5125","bank_account":null},"penza":{"ip":"80.66.82.86:5125","bank_account":"416367"},"kursk":{"ip":"80.66.82.83:5125","bank_account":null},"arkhangelsk":{"ip":"80.66.82.84:5125","bank_account":null},"orenburg":{"ip":"80.66.82.76:5125","bank_account":null},"kirov":{"ip":"80.66.82.77:5125","bank_account":null},"kemerovo":{"ip":"80.66.82.74:5125","bank_account":"1234123"},"tyumen":{"ip":"80.66.82.75:5125","bank_account":"1234123"},"tolyatti":{"ip":"80.66.82.72:5125","bank_account":"366480"},"ivanovo":{"ip":"80.66.82.73:5125","bank_account":null},"stavropol":{"ip":"80.66.82.67:5125","bank_account":null},"smolensk":{"ip":"80.66.82.68:5125","bank_account":null},"pskov":{"ip":"80.66.82.124:5125","bank_account":"383991"},"bryansk":{"ip":"80.66.82.183:5125","bank_account":"372882"},"orel":{"ip":"80.66.82.64:5125","bank_account":null},"yaroslavl":{"ip":"80.66.82.65:5125","bank_account":null},"barnaul":{"ip":"80.66.82.56:5125","bank_account":null},"lipetsk":{"ip":"80.66.82.57:5125","bank_account":null},"ulyanovsk":{"ip":"80.66.82.52:5125","bank_account":"325359"},"yakutsk":{"ip":"80.66.82.53:5125","bank_account":null},"tambov":{"ip":"80.66.82.50:5125","bank_account":null},"bratsk":{"ip":"80.66.82.51:5125","bank_account":null},"astrakhan":{"ip":"80.66.82.42:5125","bank_account":"384797"},"chita":{"ip":"80.66.82.43:5125","bank_account":"434821"},"kostroma":{"ip":"80.66.82.38:5125","bank_account":"338203"},"vladimir":{"ip":"80.66.82.36:5125","bank_account":"304503"},"kaluga":{"ip":"80.66.82.35:5125","bank_account":null},"novgorod":{"ip":"80.66.82.34:5125","bank_account":null},"taganrog":{"ip":"80.66.82.26:5125","bank_account":"320898"},"vologda":{"ip":"80.66.82.27:5125","bank_account":null},"tver":{"ip":"80.66.82.23:5125","bank_account":null},"tomsk":{"ip":"80.66.82.24:5125","bank_account":"258794"},"izhevsk":{"ip":"80.66.82.20:5125","bank_account":null},"surgut":{"ip":"80.66.82.21:5125","bank_account":"18474"},"podolsk":{"ip":"80.66.82.104:5125","bank_account":null},"magadan":{"ip":"80.66.82.249:5125","bank_account":null},"cherepovets":{"ip":"80.66.82.153:5125","bank_account":null},"norilsk":{"ip":"80.66.82.154:5125","bank_account":null},"astana":{"ip":"80.66.82.231:5125","bank_account":null},"blue":{"ip":"80.66.82.197:5125","bank_account":null},"orange":{"ip":"80.66.82.210:5125","bank_account":null},"yellow":{"ip":"80.66.82.198:5125","bank_account":"123123"}}}
+{
+  "version": 1,
+  "servers": {
+    "red": {
+      "ip": "80.66.82.46:5125",
+      "bank_account": null
+    },
+    "green": {
+      "ip": "80.66.82.47:5125",
+      "bank_account": null
+    },
+    "purple": {
+      "ip": "80.66.82.211:5125",
+      "bank_account": null
+    },
+    "lime": {
+      "ip": "80.66.82.208:5125",
+      "bank_account": null
+    },
+    "pink": {
+      "ip": "80.66.82.209:5125",
+      "bank_account": null
+    },
+    "cherry": {
+      "ip": "80.66.82.236:5125",
+      "bank_account": null
+    },
+    "black": {
+      "ip": "80.66.82.237:5125",
+      "bank_account": null
+    },
+    "indigo": {
+      "ip": "80.66.82.233:5125",
+      "bank_account": null
+    },
+    "white": {
+      "ip": "80.66.82.234:5125",
+      "bank_account": null
+    },
+    "magenta": {
+      "ip": "80.66.82.253:5125",
+      "bank_account": null
+    },
+    "crimson": {
+      "ip": "80.66.82.254:5125",
+      "bank_account": "372882"
+    },
+    "gold": {
+      "ip": "80.66.82.180:5125",
+      "bank_account": null
+    },
+    "azure": {
+      "ip": "80.66.82.181:5125",
+      "bank_account": null
+    },
+    "platinum": {
+      "ip": "80.66.82.175:5125",
+      "bank_account": null
+    },
+    "aqua": {
+      "ip": "80.66.82.176:5125",
+      "bank_account": null
+    },
+    "gray": {
+      "ip": "80.66.82.171:5125",
+      "bank_account": null
+    },
+    "ice": {
+      "ip": "80.66.82.170:5125",
+      "bank_account": null
+    },
+    "chilli": {
+      "ip": "80.66.82.166:5125",
+      "bank_account": null
+    },
+    "choco": {
+      "ip": "80.66.82.167:5125",
+      "bank_account": null
+    },
+    "moscow": {
+      "ip": "80.66.82.157:5125",
+      "bank_account": null
+    },
+    "spb": {
+      "ip": "80.66.82.158:5125",
+      "bank_account": null
+    },
+    "ufa": {
+      "ip": "80.66.82.151:5125",
+      "bank_account": null
+    },
+    "sochi": {
+      "ip": "80.66.82.152:5125",
+      "bank_account": null
+    },
+    "kazan": {
+      "ip": "80.66.82.145:5125",
+      "bank_account": null
+    },
+    "samara": {
+      "ip": "80.66.82.146:5125",
+      "bank_account": "568441"
+    },
+    "rostov": {
+      "ip": "80.66.82.140:5125",
+      "bank_account": "372882"
+    },
+    "anapa": {
+      "ip": "80.66.82.141:5125",
+      "bank_account": null
+    },
+    "ekb": {
+      "ip": "80.66.82.137:5125",
+      "bank_account": null
+    },
+    "krasnodar": {
+      "ip": "80.66.82.138:5125",
+      "bank_account": null
+    },
+    "arzamas": {
+      "ip": "80.66.82.134:5125",
+      "bank_account": "557699"
+    },
+    "novosib": {
+      "ip": "80.66.82.135:5125",
+      "bank_account": null
+    },
+    "grozny": {
+      "ip": "80.66.82.130:5125",
+      "bank_account": null
+    },
+    "saratov": {
+      "ip": "80.66.82.131:5125",
+      "bank_account": null
+    },
+    "omsk": {
+      "ip": "80.66.82.125:5125",
+      "bank_account": null
+    },
+    "irkutsk": {
+      "ip": "80.66.82.126:5125",
+      "bank_account": null
+    },
+    "volgograd": {
+      "ip": "80.66.82.120:5125",
+      "bank_account": null
+    },
+    "voronezh": {
+      "ip": "80.66.82.121:5125",
+      "bank_account": null
+    },
+    "belgorod": {
+      "ip": "80.66.82.114:5125",
+      "bank_account": null
+    },
+    "makhachkala": {
+      "ip": "80.66.82.115:5125",
+      "bank_account": null
+    },
+    "vladikavkaz": {
+      "ip": "80.66.82.111:5125",
+      "bank_account": null
+    },
+    "vladivostok": {
+      "ip": "80.66.82.187:5125",
+      "bank_account": null
+    },
+    "kaliningrad": {
+      "ip": "80.66.82.107:5125",
+      "bank_account": null
+    },
+    "chelyabinsk": {
+      "ip": "80.66.82.108:5125",
+      "bank_account": null
+    },
+    "krasnoyarsk": {
+      "ip": "80.66.82.100:5125",
+      "bank_account": null
+    },
+    "cheboksary": {
+      "ip": "80.66.82.101:5125",
+      "bank_account": null
+    },
+    "khabarovsk": {
+      "ip": "80.66.82.94:5125",
+      "bank_account": null
+    },
+    "perm": {
+      "ip": "80.66.82.95:5125",
+      "bank_account": null
+    },
+    "tula": {
+      "ip": "80.66.82.92:5125",
+      "bank_account": null
+    },
+    "ryazan": {
+      "ip": "80.66.82.93:5125",
+      "bank_account": "18474"
+    },
+    "murmansk": {
+      "ip": "80.66.82.85:5125",
+      "bank_account": null
+    },
+    "penza": {
+      "ip": "80.66.82.86:5125",
+      "bank_account": "416367"
+    },
+    "kursk": {
+      "ip": "80.66.82.83:5125",
+      "bank_account": null
+    },
+    "arkhangelsk": {
+      "ip": "80.66.82.84:5125",
+      "bank_account": null
+    },
+    "orenburg": {
+      "ip": "80.66.82.76:5125",
+      "bank_account": null
+    },
+    "kirov": {
+      "ip": "80.66.82.77:5125",
+      "bank_account": null
+    },
+    "kemerovo": {
+      "ip": "80.66.82.74:5125",
+      "bank_account": "1234123"
+    },
+    "tyumen": {
+      "ip": "80.66.82.75:5125",
+      "bank_account": "1234123"
+    },
+    "tolyatti": {
+      "ip": "80.66.82.72:5125",
+      "bank_account": "366480"
+    },
+    "ivanovo": {
+      "ip": "80.66.82.73:5125",
+      "bank_account": null
+    },
+    "stavropol": {
+      "ip": "80.66.82.67:5125",
+      "bank_account": null
+    },
+    "smolensk": {
+      "ip": "80.66.82.68:5125",
+      "bank_account": null
+    },
+    "pskov": {
+      "ip": "80.66.82.124:5125",
+      "bank_account": "383991"
+    },
+    "bryansk": {
+      "ip": "80.66.82.183:5125",
+      "bank_account": "372882"
+    },
+    "orel": {
+      "ip": "80.66.82.64:5125",
+      "bank_account": null
+    },
+    "yaroslavl": {
+      "ip": "80.66.82.65:5125",
+      "bank_account": null
+    },
+    "barnaul": {
+      "ip": "80.66.82.56:5125",
+      "bank_account": null
+    },
+    "lipetsk": {
+      "ip": "80.66.82.57:5125",
+      "bank_account": null
+    },
+    "ulyanovsk": {
+      "ip": "80.66.82.52:5125",
+      "bank_account": "325359"
+    },
+    "yakutsk": {
+      "ip": "80.66.82.53:5125",
+      "bank_account": null
+    },
+    "tambov": {
+      "ip": "80.66.82.50:5125",
+      "bank_account": null
+    },
+    "bratsk": {
+      "ip": "80.66.82.51:5125",
+      "bank_account": null
+    },
+    "astrakhan": {
+      "ip": "80.66.82.42:5125",
+      "bank_account": "384797"
+    },
+    "chita": {
+      "ip": "80.66.82.43:5125",
+      "bank_account": "434821"
+    },
+    "kostroma": {
+      "ip": "80.66.82.38:5125",
+      "bank_account": "338203"
+    },
+    "vladimir": {
+      "ip": "80.66.82.36:5125",
+      "bank_account": "304503"
+    },
+    "kaluga": {
+      "ip": "80.66.82.35:5125",
+      "bank_account": null
+    },
+    "novgorod": {
+      "ip": "80.66.82.34:5125",
+      "bank_account": null
+    },
+    "taganrog": {
+      "ip": "80.66.82.26:5125",
+      "bank_account": "320898"
+    },
+    "vologda": {
+      "ip": "80.66.82.27:5125",
+      "bank_account": null
+    },
+    "tver": {
+      "ip": "80.66.82.23:5125",
+      "bank_account": null
+    },
+    "tomsk": {
+      "ip": "80.66.82.24:5125",
+      "bank_account": "258794"
+    },
+    "izhevsk": {
+      "ip": "80.66.82.20:5125",
+      "bank_account": null
+    },
+    "surgut": {
+      "ip": "80.66.82.21:5125",
+      "bank_account": "18474"
+    },
+    "podolsk": {
+      "ip": "80.66.82.104:5125",
+      "bank_account": null
+    },
+    "magadan": {
+      "ip": "80.66.82.249:5125",
+      "bank_account": null
+    },
+    "cherepovets": {
+      "ip": "80.66.82.153:5125",
+      "bank_account": null
+    },
+    "norilsk": {
+      "ip": "80.66.82.154:5125",
+      "bank_account": null
+    },
+    "astana": {
+      "ip": "80.66.82.231:5125",
+      "bank_account": null
+    },
+    "blue": {
+      "ip": "80.66.82.197:5125",
+      "bank_account": null
+    },
+    "orange": {
+      "ip": "80.66.82.210:5125",
+      "bank_account": null
+    },
+    "yellow": {
+      "ip": "80.66.82.198:5125",
+      "bank_account": "123123"
+    }
+  },
+  "vladimir": {
+    "bank_account": "305602"
+  }
+}

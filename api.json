@@ -365,14 +365,4 @@
       "ip": "80.66.82.198:5125",
       "bank_account": "123123"
     }
-  },
-  "vladimir": {
-    "bank_account": "305602"
-  },
-  "smolensk": {
-    "bank_account": "389084"
-  },
-  "pskov": {
-    "bank_account": "385316"
-  }
 }

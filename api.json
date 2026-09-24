@@ -19,7 +19,7 @@
     },
     "pink": {
       "ip": "80.66.82.209:5125",
-      "bank_account": null
+      "bank_account": "691386"
     },
     "cherry": {
       "ip": "80.66.82.236:5125",
@@ -27,7 +27,7 @@
     },
     "black": {
       "ip": "80.66.82.237:5125",
-      "bank_account": null
+      "bank_account": "747692"
     },
     "indigo": {
       "ip": "80.66.82.233:5125",
@@ -91,7 +91,7 @@
     },
     "sochi": {
       "ip": "80.66.82.152:5125",
-      "bank_account": null
+      "bank_account": "596922"
     },
     "kazan": {
       "ip": "80.66.82.145:5125",
